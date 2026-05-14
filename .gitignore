@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.firebase/
+*.timestamp-*.mjs
+.DS_Store
+.env
+.env.local
+*.log
